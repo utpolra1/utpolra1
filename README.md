@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utpolra1&label=Profile%20views&color=0e75b6&style=flat" alt="utpolra1" /> </p>
 <h1 align="center">Hi 👋, I'm Uttpol Roy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="350" height="3" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+<img align="right" alt="coding" width="350" height="350" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 - 🌱 I’m currently learning **BackEnd**
 
