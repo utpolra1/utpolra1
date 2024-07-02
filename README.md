@@ -11,11 +11,13 @@
 I am a professional front-end developer with experience in web technologies. I am skilled in creating creative designs and interactive interfaces. I am passionate about delivering the best user experience using the latest technologies and design principles.
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=utpolra1&show_icons=true&count_private=true" alt="GitHub Stats" style="max-width: 30%;">
-  <img src="https://streak-stats.demolab.com/?user=utpolra1" alt="GitHub Streak" style="max-width: 30%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpolra1&layout=compact" alt="Top Languages" style="max-width: 30%;">
+<div style="display:flex; gap: 20px; margin-top: 20px;">=
+    <img src="https://github-readme-stats.vercel.app/api?username=utpolra1&show_icons=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;">
+    <img src="https://streak-stats.demolab.com/?user=utpolra1" alt="GitHub Streak" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpolra1&layout=compact" alt="Top Languages" style="max-width: 100%;">
 </div>
+
+
 
 ## 🛠 Skills
 ![HTML](URL_to_HTML_Logo) ![CSS](URL_to_CSS_Logo) ![JavaScript](URL_to_JavaScript_Logo)
