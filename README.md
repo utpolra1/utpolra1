@@ -25,38 +25,17 @@ I am a professional front-end developer with experience in web technologies. I a
 [![Project Name](URL_to_Project_1_Badge)](URL_to_Project_1_Repository)
 - **Project Name 1**
   - **Overview:** This project solves a problem related to...
-  - **Features:**
-    - Feature 1
-    - Feature 2
-    - Feature 3
+
   - **Technologies Used:** HTML, CSS, JavaScript, React
-  - **Installation Steps:**
-    1. Step 1
-    2. Step 2
-    3. Step 3
+
 
 [![Project Name](URL_to_Project_2_Badge)](URL_to_Project_2_Repository)
 - **Project Name 2**
-  - **Overview:** This project solves a problem related to...
-  - **Features:**
-    - Feature 1
-    - Feature 2
-    - Feature 3
+
   - **Technologies Used:** HTML, CSS, JavaScript, React
-  - **Installation Steps:**
-    1. Step 1
-    2. Step 2
-    3. Step 3
+
 
 [![Project Name](URL_to_Project_3_Badge)](URL_to_Project_3_Repository)
 - **Project Name 3**
-  - **Overview:** This project solves a problem related to...
-  - **Features:**
-    - Feature 1
-    - Feature 2
-    - Feature 3
   - **Technologies Used:** HTML, CSS, JavaScript, React
-  - **Installation Steps:**
-    1. Step 1
-    2. Step 2
-    3. Step 3
+
