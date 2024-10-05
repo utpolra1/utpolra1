@@ -24,15 +24,15 @@ I am a professional front-end developer with experience in web technologies. I a
 ![React](URL_to_React_Logo) ![Node.js](URL_to_Node.js_Logo)
 
 ## 📌 Pinned Repositories
-[![Project Name](URL_to_Project_1_Badge)](URL_to_Project_1_Repository)
-- **Project Name 1**
+[![battle-for-supremacy]([URL_to_Project_1_Badge](https://b9-battle-for-supremacy.web.app/))](URL_to_Project_1_Repository)
+- **battle-for-supremacy**
   - **Overview:** This project solves a problem related to...
 
   - **Technologies Used:** HTML, CSS, JavaScript, React
 
 
 [![Project Name](URL_to_Project_2_Badge)](URL_to_Project_2_Repository)
-- **Project Name 2**
+- **Art & Craft !**
 
   - **Technologies Used:** HTML, CSS, JavaScript, React
 
